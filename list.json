@@ -1,0 +1,72 @@
+{
+  "by_country": [
+    {
+      "title": "Australia",
+      "link": "AU",
+      "content": "Australia is a highly developed country, with the world's twelfth-largest economy. It has a high-income economy, with the world's tenth-highest per capita income.[26] Australia is a regional power, and has the world's thirteenth-highest military expenditure.",
+      "img": "./assets/img/flags/australia.png"
+    },
+    {
+      "title": "China",
+      "link": "CN",
+      "content": "China is the world's largest economy by GDP at purchasing power parity and the second-largest economy by nominal GDP and the world's second wealthiest country by total wealth. ",
+      "img": "./assets/img/flags/china.png"
+    },
+    {
+      "title": "Germany",
+      "link": "DE",
+      "content": "Germany is a great power with a strong economy; it has the largest economy in Europe, the world's fourth-largest economy by nominal GDP, and the fifth-largest by PPP. As a global leader in several industrial, scientific and technological sectors, it is both the world's third-largest exporter and importer of goods.",
+      "img": "./assets/img/flags/germany.png"
+    },
+    {
+      "title": "Japan",
+      "link": "JP",
+      "content": "Japan is a great power and a member of numerous international organizations, including the United Nations (since 1956), the OECD, and the Group of Seven. Although it has renounced its right to declare war, the country maintains Self-Defense Forces that rank as one of the world's strongest militaries.",
+      "img": "./assets/img/flags/japan.png"
+    },
+    {
+      "title": "United Kingdom",
+      "link": "GB",
+      "content": "The United Kingdom has the world's fifth-largest economy by nominal gross domestic product (GDP), and the tenth-largest by purchasing power parity (PPP). It has a high-income economy and a very high human development index rating, ranking 13th in the world.",
+      "img": "./assets/img/flags/uk.png"
+    },
+    {
+      "title": "United States",
+      "link": "US",
+      "content": "The United States is a highly developed country, accounts for approximately a quarter of global GDP, and is the world's largest economy by GDP at market exchange rates.",
+      "img": "./assets/img/flags/us.png"
+    }
+  ],
+  "by_era": [
+    {
+      "title": "Age of Discovery",
+      "link": "AoD",
+      "content": "The Age of Discovery refers to a period in the late Middle Ages/Renaissance where foreign travel and discovery was an influential part of European societies. In the Age of Discovery, European powers discovered and settled in different continents, changing the fate of the Americas, Africa and Asia.",
+      "img": "./assets/img/era/AoD.jpg"
+    },
+    {
+      "title": "The Scientific Revolution",
+      "link": "SR",
+      "content": "The scientific revolution was an element of The Enlightenment period. The Scientific Revolution focused on the development of modern science based on the scientific method of deductive reasonsing.",
+      "img": "./assets/img/era/SR.jpg"
+    },
+    {
+      "title": "Industrial Revolution",
+      "link": "IR",
+      "content": "The industrial revolution is a phase of social development which saw the growth of mass industrial production and the shift from a largely agrarian economy to an industrial economy based on coal, steel, railways and specialisation of labour.",
+      "img": "./assets/img/era/IR.jpg"
+    },
+    {
+      "title": "The Cold War",
+      "link": "CW",
+      "content": "The Cold War refers to the period of ideological conflict between the Communist East, and Western democracies. The cold war saw a period of rising tension, especially over the proliferation of nuclear weapons.",
+      "img": "./assets/img/era/CW.jpg"
+    },
+    {
+      "title": "Information Age",
+      "link": "IA",
+      "content": "The Information age refers to the new modern technologies which have shaped the modern world. These technologies include computers, the Internet and mobile phones. Key figures include business entrepreneurs, such as Bill Gates and Steve Jobs.",
+      "img": "./assets/img/era/IA.jpg"
+    }
+  ]
+}
